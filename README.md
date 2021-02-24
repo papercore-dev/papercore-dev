@@ -1,8 +1,9 @@
 ![HiThere](hithere.svg)    
 
 ## PaperCore?? What's that????
-Random Developer from South Korea. Develops with `NodeJS`, `ElectronJS`, `HTML`, `JS`, `PHP`, `JAVA`, `Shell language`(this shouldn't count as language..).
-Uses TailWind but... suks at design.
+- Random Developer from South Korea. 
+- Develops with `NodeJS`, `ElectronJS`, `HTML`, `JS`, `PHP`, `JAVA`, `Shell language`(this shouldn't count as language..).
+- Uses TailWind but... suks at design.
 
 ## 🔭Current Works
 
