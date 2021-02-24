@@ -1,9 +1,12 @@
 ![HiThere](hithere.svg)    
 
-## PaperCore?? What's that????
+## 🤔PaperCore?? What's that????
 - Random Developer from South Korea. 
 - Develops with `NodeJS`, `ElectronJS`, `HTML`, `JS`, `PHP`, `JAVA`, `Shell language`(this shouldn't count as language..).
 - Uses TailWind but... suks at design.
+
+## ⚡Top Language
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=papercore-dev)
 
 ## 🔭Current Works
 
